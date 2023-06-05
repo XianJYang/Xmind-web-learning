@@ -1,2 +1,3 @@
-# Xmind-web-learning
-web learning note 
+# web技术的个人学习笔记 
+
+
